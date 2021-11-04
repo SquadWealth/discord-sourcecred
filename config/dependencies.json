@@ -2,11 +2,11 @@
     {
         "autoActivateOnIdentityCreation": true,
         "autoInjectStartingPeriodWeight": 0.05,
-        "id": "BmmNhq08JNFVNXRfqCY1lQ",
+        "id": "661f9heS9bqabAVIA8xK2g",
         "name": "SourceCred",
         "periods": [
             {
-                "startTime": "2021-11-03T01:04:09.417Z",
+                "startTime": "2021-11-04T01:04:41.523Z",
                 "weight": 0.05
             }
         ]
